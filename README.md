@@ -17,10 +17,12 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-I am a Denver-based software developer, specializing in front-end architecture and UI/UX accessibility. I am 6 weeks away from completing my developer program and excited to become a contributing asset to the right software team.
--🔭 I’m currently working on completing my software development course at The Turing School of Software and Design.
--🌱 I’m currently learning TypeScript.
--👯 I’m looking to collaborate on the front end of web applications that make it easy and intuitive for anyone to use the internet.
--📫 How to reach me: LinkedIn | brandonjamesdoza@gmail.com
--⚡ Fun fact: I love the Mountains! Whether I'm hiking, biking, camping, skiing, or just taking in the view, I'm in.
+
+### I am a Denver-based software developer, specializing in front-end architecture and UI/UX accessibility. I am 6 weeks away from completing my developer program and excited to become a contributing asset to the right software team.
+
+- 🔭 I’m currently working on completing my software development course at The Turing School of Software and Design.
+- 🌱 I’m currently learning TypeScript.
+- 👯 I’m looking to collaborate on the front end of web applications that make it easy and intuitive for anyone to use the internet.
+- 📫 How to reach me: https://www.linkedin.com/in/brandon-doza/ | brandonjamesdoza@gmail.com
+- ⚡ Fun fact: I love the Mountains! Whether I'm hiking, biking, camping, skiing, or just taking in the view, I'm in.
 
