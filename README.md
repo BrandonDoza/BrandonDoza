@@ -24,5 +24,5 @@
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on the front end of web applications that make it easy and intuitive for anyone to use the internet.
 - 📫 How to reach me: https://www.linkedin.com/in/brandon-doza/ | brandonjamesdoza@gmail.com
-- ⚡ Fun fact: I love the Mountains! Whether I'm hiking, biking, camping, skiing, or just taking in the view, I'm in.
+- ⚡ Fun fact: I love the Mountains! Whether I'm hiking, biking, camping, skiing, or just taking in the view, count me in!
 
