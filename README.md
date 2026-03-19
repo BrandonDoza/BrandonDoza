@@ -25,11 +25,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
-### I am a Denver-based software developer, specializing in front-end architecture and UI/UX accessibility. I am 6 weeks away from completing my developer program and excited to become a contributing asset to the right software team.
+### Denver-based mortgage advisor with a soft spot for tech, focused on building clean, intuitive user experiences and modern digital tools.
 
-- 🔭 I’m currently working on completing my software development course at The Turing School of Software and Design.
-- 🌱 I’m currently learning TypeScript.
-- 👯 I’m looking to collaborate on the front end of web applications that make it easy and intuitive for anyone to use the internet.
-- 📫 How to reach me: https://www.linkedin.com/in/brandon-doza/ | brandonjamesdoza@gmail.com
-- ⚡ Fun fact: I love the Mountains! Whether I'm hiking, biking, camping, skiing, or just taking in the view, count me in!
+- 🔭 I’m currently building out digital tools and resources to improve the home buying experience, including web applications and client-facing platforms.
+- 🌱 I’m continuing to grow my skills in front-end development, especially TypeScript and modern React frameworks.
+- 📫 How to reach me: https://www.linkedin.com/in/brandon-doza/ | brandon@mpahomeloans.com | https://www.homeloanswithbrandon.com/
+- ⚡ Fun fact: I love the mountains — whether I’m biking, hiking, camping, or skiing, I’m always looking for an excuse to get outside.
 
